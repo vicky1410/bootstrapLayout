@@ -1,0 +1,12 @@
+blockquote {
+  border-left: 5px solid grey;
+
+  padding-left: 20px;
+}
+.heading1 {
+  height: max-content;
+}
+
+.labeling {
+  width: max-content;
+}
